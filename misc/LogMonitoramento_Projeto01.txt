@@ -1,0 +1,34 @@
+Iniciado protocolo de monitoramento. | 15:07:08
+Iniciado protocolo de monitoramento. | 15:10:52
+Database Hosting iniciada | 15:11:00
+LED USB OFF | 15:11:00
+Novo registro geral adicionado a database | 15:11:06
+Iniciado protocolo de monitoramento. | 15:11:49
+Database Hosting iniciada | 15:11:57
+LED USB OFF | 15:11:57
+Novo registro geral adicionado a database | 15:12:03
+LED USB OFF | 15:17:03
+Novo registro geral adicionado a database | 15:17:10
+Iniciado protocolo de monitoramento. | 15:20:24
+Database Hosting iniciada | 15:20:33
+LED USB OFF | 15:20:33
+Novo registro geral adicionado a database | 15:20:39
+Iniciado protocolo de monitoramento. | 15:22:22
+Database Hosting iniciada | 15:22:30
+LED USB OFF | 15:22:30
+Novo registro geral adicionado a database | 15:22:36
+Iniciado protocolo de monitoramento. | 15:24:04
+Database Hosting iniciada | 15:24:12
+LED USB OFF | 15:24:12
+Novo registro geral adicionado a database | 15:24:18
+Iniciado protocolo de monitoramento. | 16:00:17
+Database Hosting iniciada | 16:00:25
+Novo registro geral adicionado a database | 16:00:32
+Iniciado protocolo de monitoramento. | 16:07:12
+Database Hosting iniciada | 16:07:20
+LED USB ON | 16:07:21
+Novo registro geral adicionado a database | 16:07:28
+Iniciado protocolo de monitoramento. | 16:17:23
+Database Hosting iniciada | 16:17:31
+LED USB ON | 16:17:31
+Novo registro geral adicionado a database | 16:17:38
